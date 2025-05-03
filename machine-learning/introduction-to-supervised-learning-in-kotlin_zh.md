@@ -1,8 +1,6 @@
-# Kotlin 中的监督学习简介
+# [Kotlin中的监督学习简介](https://www.baeldung.com/kotlin/introduction-to-supervised-learning-in-kotlin#linear-regression)
 
-[算法](https://www.baeldung.com/kotlin/category/algorithms)
-
-- [ ] [Introduction to Supervised Learning in Kotlin](https://www.baeldung.com/kotlin/introduction-to-supervised-learning-in-kotlin#linear-regression)
+算法
 
 1. 概述
 
@@ -288,7 +286,3 @@
 5. 结论
 
     我们已经了解了如何使用 Kotlin 监督学习来训练机器学习模型。我们使用 Deeplearning4j 来帮助我们处理复杂的算法。简单的算法甚至不需要任何库就可以原生实现。
-
-## Code
-
-像往常一样，源代码可在 [GitHub](https://github.com/Baeldung/kotlin-tutorials/tree/master/machine-learning) 上获取。
